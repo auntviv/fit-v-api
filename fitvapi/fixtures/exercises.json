@@ -1,0 +1,10 @@
+[
+    {
+        "model": "fitvapi.exercise",
+        "pk": 1,
+        "fields": {
+            "name": "Deadlift",
+            "category_id": 1
+        }
+    }
+]

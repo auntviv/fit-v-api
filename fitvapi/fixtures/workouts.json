@@ -1,0 +1,12 @@
+[
+    {
+        "model": "fitvapi.workout",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "date": "2020-08-28",
+            "calories":567
+        }
+    }
+]
+  

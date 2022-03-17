@@ -1,0 +1,23 @@
+[
+    {
+        "model": "fitvapi.category",
+        "pk": 1,
+        "fields": {
+            "type": "Weight Training"
+        }
+    },
+    {
+        "model": "fitvapi.category",
+        "pk": 2,
+        "fields": {
+            "type": "Cardio"
+        }
+    },
+    {
+        "model": "fitvapi.category",
+        "pk": 3,
+        "fields": {
+            "type": "Yoga"
+        }
+    }
+]
