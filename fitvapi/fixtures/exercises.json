@@ -4,7 +4,26 @@
         "pk": 1,
         "fields": {
             "name": "Deadlift",
-            "category_id": 1
+            "category_id": 1,
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fit-young-african-american-woman-working-out-with-royalty-free-image-1634219544.jpg?crop=0.667xw:1.00xh;0.190xw,0&resize=640:*"
         }
+    },
+    {
+        "model": "fitvapi.exercise",
+        "pk": 2,
+        "fields": {
+            "name": "Downward Dog",
+            "category_id": 3,
+            "image":"https://www.healthy-magazine.co.uk/wp-content/uploads/2018/08/Downward-dog.jpg"
     }
+},
+{
+    "model": "fitvapi.exercise",
+    "pk": 3,
+    "fields": {
+        "name": "Sprint",
+        "category_id": 2,
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/whm060120feafitnessspeed-004-1590097947.jpg"
+}
+}
 ]

@@ -1,12 +1,29 @@
 [
     {
         "model": "fitvapi.workoutexercise",
-        "pk": 1,
         "fields": {
-            "workout_id": 1,
-            "exercise_id": 1,
+            "workout": 1,
+            "exercise": 2,
+            "sets": 2,
+            "reps": 12
+        }
+    },
+    {
+        "model": "fitvapi.workoutexercise",
+        "fields": {
+            "workout": 3,
+            "exercise": 1,
             "sets": 3,
             "reps": 15
+        }
+    },
+    {
+        "model": "fitvapi.workoutexercise",
+        "fields": {
+            "workout": 2,
+            "exercise": 3,
+            "sets": 4,
+            "reps": 1
         }
     }
 ]

@@ -7,6 +7,27 @@
             "date": "2020-08-28",
             "calories":567
         }
+    },
+
+    {
+        "model": "fitvapi.workout",
+        "pk": 2,
+        "fields": {
+            "user": 3,
+            "date": "2022-03-25",
+            "calories":567
+        }
+    },
+
+    {
+        "model": "fitvapi.workout",
+        "pk": 3,
+        "fields": {
+            "user": 2,
+            "date": "2021-09-01",
+            "calories":123
+        }
     }
+    
 ]
   
